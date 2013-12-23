@@ -1,6 +1,6 @@
 # great-hnize
 
-すごい広島。
+すごい広島。[関連](http://tfrkd.org/posts/2013-12-23-sugoi-hiroshima-adovento-karenda-ni-maru-ichi-san.html)
 
 インストールは、自己責任でお願いします。(一応
 
